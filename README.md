@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anurag_0204" target="blank"><img src="https://img.shields.io/twitter/follow/anurag_0204?logo=twitter&style=for-the-badge" alt="anurag_0204" /></a> </p>
 
-- 🔭 I’m currently working on **professor faculty portal**
+- 🔭 I’m currently working on **faculty availability portal for our institution**
 
 - 🌱 I’m currently learning **DSA, React**
 
