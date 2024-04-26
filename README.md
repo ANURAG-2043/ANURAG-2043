@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anurag_0204" target="blank"><img src="https://img.shields.io/twitter/follow/anurag_0204?logo=twitter&style=for-the-badge" alt="anurag_0204" /></a> </p>
 
-- 🔭 I’m currently working on **faculty availability portal for our institution**
+- 🔭 I’m currently working on **Multilingual Sign Language Model**
 
 - 🌱 I’m currently learning **DSA, React**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://admirable-platypus-1c2899.netlify.app](https://admirable-platypus-1c2899.netlify.app)
 
-- 💬 Ask me about **c, cpp,frontend web Development**
+- 💬 Ask me about **c, cpp,Full Stack web Development**
 
 - 📫 How to reach me **itsaworkspace2043@gmail.com**
 
