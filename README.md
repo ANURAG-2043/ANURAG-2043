@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 👨‍💻 All of my projects are available at [https://admirable-platypus-1c2899.netlify.app](https://admirable-platypus-1c2899.netlify.app)
+- 👨‍💻 All of my projects are available at [https://anurag-2043.github.io/web_portfolio/](https://anurag-2043.github.io/web_portfolio/)
 
 - 💬 Ask me about **c, cpp,Full Stack web Development**
 
