@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)](https://admirable-platypus-1c2899.netlify.app)
 <h1 align="center">Hi 👋, I'm Anurag Kumbhare</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-2043&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-2043" /> </p>
@@ -9,14 +9,13 @@
 
 - 🔭 I’m currently working on **Multilingual Sign Language Model**
 
-- 🌱 I’m currently learning **DSA, React**
+- 🌱 I’m currently learning **DSA **
 
 - 👯 I’m looking to collaborate on **open source**
 
 - 👨‍💻 All of my projects are available at [https://anurag-2043.github.io/web_portfolio/](https://anurag-2043.github.io/web_portfolio/)
 
-- 💬 Ask me about **c, cpp,Full Stack web Development**
-
+- 💬 Ask me about **c, cpp,Full Stack web Development,Python (intermediate),Flask,HTML,CSS,JavaScript,Google Cloud,NodeJS,FAST API,REST API
 - 📫 How to reach me **itsaworkspace2043@gmail.com**
 
 - ⚡ Fun fact **My first childhood crush was my English Teacher.**
